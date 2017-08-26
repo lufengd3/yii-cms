@@ -1,0 +1,10 @@
+2017/08/26 14:02:18 [error] [exception.CException] exception 'CException' with message 'CHttpRequest 不能确认请求的 URI.' in /Users/lu/github/yii-cms/framework/web/CHttpRequest.php:506
+Stack trace:
+#0 /Users/lu/github/yii-cms/framework/web/CHttpRequest.php(418): CHttpRequest->getRequestUri()
+#1 /Users/lu/github/yii-cms/framework/web/CUrlManager.php(361): CHttpRequest->getPathInfo()
+#2 /Users/lu/github/yii-cms/framework/web/CWebApplication.php(140): CUrlManager->parseUrl(Object(CHttpRequest))
+#3 /Users/lu/github/yii-cms/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Users/lu/github/yii-cms/index.php(13): CApplication->run()
+#5 {main}
+---
+2017/08/26 14:02:18 [error] [exception.CDbException] SQLSTATE[HY000] [2002] No such file or directory

@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* all+login CSS Document */
+*{ margin:0px; border:0px; padding:0px}
+body{ font-size:14px; color:#003366; background:url(topbg.jpg) repeat-x top}
+.loginbg{ background:url(loginbg.jpg) no-repeat; width:1000px; height:476px; margin:40px auto 0px auto;}
+.logintxt{ padding:325px 0px 0px 0px; text-align:center}
+input{width:100px; height:20px;line-height:20px; border:#00CCCC solid 3px}
+#imageField{width: auto; height: auto; border:0px; float: left}
+.loginleft{ width:700px; float:left}
+
+/* top CSS Document */
+.topright{ background:url(topright.jpg) right no-repeat; }
+.topfenge{ background:#0099FF; height:10px}
+
+/* main CSS Document */
+.rightbg{ border:#66CCFF solid 1px; border-top:1px;height:25px; padding:2px; margin:0px auto; width:90%; line-height:25px; font-size:13PX }
+.maindiv input{height:20px;line-height:20px; border:#0066FF solid 1px; color:#FFFFFF; background-color:#0066FF}
+
+.admin_left {float:left; width:200px;}

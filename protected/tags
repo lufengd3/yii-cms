@@ -1,0 +1,323 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Area	models/Area.php	/^class Area extends CActiveRecord$/;"	c
+AreaController	controllers/AreaController.php	/^class AreaController extends Controller$/;"	c
+Ask	models/Ask.php	/^class Ask extends CActiveRecord$/;"	c
+AskController	controllers/AskController.php	/^class AskController extends Controller$/;"	c
+BIN_PATH	yiic.bat	/^set BIN_PATH=%~dp0$/;"	v
+Charge	models/Charge.php	/^class Charge extends CActiveRecord$/;"	c
+ChargeController	controllers/ChargeController.php	/^class ChargeController extends Controller$/;"	c
+ContactForm	models/ContactForm.php	/^class ContactForm extends CFormModel$/;"	c
+Controller	components/Controller.php	/^class Controller extends CController$/;"	c
+LoginForm	models/LoginForm.php	/^class LoginForm extends CFormModel$/;"	c
+News	models/News.php	/^class News extends CActiveRecord$/;"	c
+NewsController	controllers/NewsController.php	/^class NewsController extends Controller$/;"	c
+Orders	models/Orders.php	/^class Orders extends CActiveRecord$/;"	c
+OrdersController	controllers/OrdersController.php	/^class OrdersController extends Controller$/;"	c
+PHP_COMMAND	yiic.bat	/^if "%PHP_COMMAND%" == "" set PHP_COMMAND=php.exe$/;"	v
+SiteController	controllers/SiteController.php	/^class SiteController extends Controller$/;"	c
+SiteTest	tests/functional/SiteTest.php	/^class SiteTest extends WebTestCase$/;"	c
+TEST_BASE_URL	tests/WebTestCase.php	/^define('TEST_BASE_URL','http:\/\/localhost\/testdrive\/index-test.php\/');$/;"	d
+TicketType	models/TicketType.php	/^class TicketType extends CActiveRecord$/;"	c
+TicketTypeController	controllers/TicketTypeController.php	/^class TicketTypeController extends Controller$/;"	c
+User	models/User.php	/^class User extends CActiveRecord$/;"	c
+UserController	controllers/UserController.php	/^class UserController extends Controller$/;"	c
+UserIdentity	components/UserIdentity.php	/^class UserIdentity extends CUserIdentity$/;"	c
+WebTestCase	tests/WebTestCase.php	/^class WebTestCase extends CWebTestCase$/;"	c
+_id	components/UserIdentity.php	/^    private $_id;$/;"	v
+_identity	models/LoginForm.php	/^			$this->_identity=new UserIdentity($this->username,$this->password);$/;"	v
+_identity	models/LoginForm.php	/^	private $_identity;$/;"	v
+accessRules	controllers/AreaController.php	/^	public function accessRules()$/;"	f
+accessRules	controllers/AskController.php	/^	public function accessRules()$/;"	f
+accessRules	controllers/ChargeController.php	/^	public function accessRules()$/;"	f
+accessRules	controllers/NewsController.php	/^	public function accessRules()$/;"	f
+accessRules	controllers/OrdersController.php	/^	public function accessRules()$/;"	f
+accessRules	controllers/TicketTypeController.php	/^	public function accessRules()$/;"	f
+accessRules	controllers/UserController.php	/^	public function accessRules()$/;"	f
+actionAdmin	controllers/AreaController.php	/^	public function actionAdmin()$/;"	f
+actionAdmin	controllers/AskController.php	/^	public function actionAdmin()$/;"	f
+actionAdmin	controllers/ChargeController.php	/^	public function actionAdmin()$/;"	f
+actionAdmin	controllers/NewsController.php	/^	public function actionAdmin()$/;"	f
+actionAdmin	controllers/OrdersController.php	/^	public function actionAdmin()$/;"	f
+actionAdmin	controllers/TicketTypeController.php	/^	public function actionAdmin()$/;"	f
+actionAdmin	controllers/UserController.php	/^	public function actionAdmin()$/;"	f
+actionContact	controllers/SiteController.php	/^	public function actionContact()$/;"	f
+actionCreate	controllers/AreaController.php	/^	public function actionCreate()$/;"	f
+actionCreate	controllers/AskController.php	/^	public function actionCreate()$/;"	f
+actionCreate	controllers/ChargeController.php	/^	public function actionCreate()$/;"	f
+actionCreate	controllers/NewsController.php	/^	public function actionCreate()$/;"	f
+actionCreate	controllers/OrdersController.php	/^	public function actionCreate()$/;"	f
+actionCreate	controllers/TicketTypeController.php	/^	public function actionCreate()$/;"	f
+actionCreate	controllers/UserController.php	/^	public function actionCreate()$/;"	f
+actionDelete	controllers/AreaController.php	/^	public function actionDelete($id)$/;"	f
+actionDelete	controllers/AskController.php	/^	public function actionDelete($id)$/;"	f
+actionDelete	controllers/ChargeController.php	/^	public function actionDelete($id)$/;"	f
+actionDelete	controllers/NewsController.php	/^	public function actionDelete($id)$/;"	f
+actionDelete	controllers/OrdersController.php	/^	public function actionDelete($id)$/;"	f
+actionDelete	controllers/TicketTypeController.php	/^	public function actionDelete($id)$/;"	f
+actionDelete	controllers/UserController.php	/^	public function actionDelete($id)$/;"	f
+actionError	controllers/SiteController.php	/^	public function actionError()$/;"	f
+actionIndex	controllers/AreaController.php	/^	public function actionIndex()$/;"	f
+actionIndex	controllers/AskController.php	/^	public function actionIndex()$/;"	f
+actionIndex	controllers/ChargeController.php	/^	public function actionIndex()$/;"	f
+actionIndex	controllers/NewsController.php	/^	public function actionIndex()$/;"	f
+actionIndex	controllers/OrdersController.php	/^	public function actionIndex()$/;"	f
+actionIndex	controllers/SiteController.php	/^	public function actionIndex()$/;"	f
+actionIndex	controllers/TicketTypeController.php	/^	public function actionIndex()$/;"	f
+actionIndex	controllers/UserController.php	/^	public function actionIndex()$/;"	f
+actionLogin	controllers/SiteController.php	/^	public function actionLogin()$/;"	f
+actionLogout	controllers/SiteController.php	/^	public function actionLogout()$/;"	f
+actionUpdate	controllers/AreaController.php	/^	public function actionUpdate($id)$/;"	f
+actionUpdate	controllers/AskController.php	/^	public function actionUpdate($id)$/;"	f
+actionUpdate	controllers/ChargeController.php	/^	public function actionUpdate($id)$/;"	f
+actionUpdate	controllers/NewsController.php	/^	public function actionUpdate($id)$/;"	f
+actionUpdate	controllers/OrdersController.php	/^	public function actionUpdate($id)$/;"	f
+actionUpdate	controllers/TicketTypeController.php	/^	public function actionUpdate($id)$/;"	f
+actionUpdate	controllers/UserController.php	/^	public function actionUpdate($id)$/;"	f
+actionView	controllers/AreaController.php	/^	public function actionView($id)$/;"	f
+actionView	controllers/AskController.php	/^	public function actionView($id)$/;"	f
+actionView	controllers/ChargeController.php	/^	public function actionView($id)$/;"	f
+actionView	controllers/NewsController.php	/^	public function actionView($id)$/;"	f
+actionView	controllers/OrdersController.php	/^	public function actionView($id)$/;"	f
+actionView	controllers/TicketTypeController.php	/^	public function actionView($id)$/;"	f
+actionView	controllers/UserController.php	/^	public function actionView($id)$/;"	f
+actions	controllers/SiteController.php	/^	public function actions()$/;"	f
+attributeLabels	models/Area.php	/^	public function attributeLabels()$/;"	f
+attributeLabels	models/Ask.php	/^	public function attributeLabels()$/;"	f
+attributeLabels	models/Charge.php	/^	public function attributeLabels()$/;"	f
+attributeLabels	models/ContactForm.php	/^	public function attributeLabels()$/;"	f
+attributeLabels	models/LoginForm.php	/^	public function attributeLabels()$/;"	f
+attributeLabels	models/News.php	/^	public function attributeLabels()$/;"	f
+attributeLabels	models/Orders.php	/^	public function attributeLabels()$/;"	f
+attributeLabels	models/TicketType.php	/^	public function attributeLabels()$/;"	f
+attributeLabels	models/User.php	/^	public function attributeLabels()$/;"	f
+authenticate	components/UserIdentity.php	/^	public function authenticate()$/;"	f
+authenticate	models/LoginForm.php	/^	public function authenticate($attribute,$params)$/;"	f
+body	models/ContactForm.php	/^	public $body;$/;"	v
+breadcrumbs	components/Controller.php	/^	public $breadcrumbs=array();$/;"	v
+breadcrumbs	views/area/admin.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/area/create.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/area/index.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/area/update.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/area/view.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/ask/admin.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/ask/create.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/ask/index.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/ask/update.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/ask/view.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/charge/admin.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/charge/create.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/charge/index.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/charge/update.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/charge/view.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/news/admin.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/news/create.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/news/index.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/news/update.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/news/view.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/orders/admin.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/orders/create.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/orders/index.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/orders/update.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/orders/view.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/site/contact.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/site/error.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/site/login.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/site/pages/about.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/ticketType/admin.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/ticketType/create.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/ticketType/index.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/ticketType/update.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/ticketType/view.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/user/admin.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/user/create.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/user/index.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/user/update.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	views/user/view.php	/^$this->breadcrumbs=array($/;"	v
+config	tests/bootstrap.php	/^$config=dirname(__FILE__).'\/..\/config\/test.php';$/;"	v
+config	yiic.php	/^$config=dirname(__FILE__).'\/config\/console.php';$/;"	v
+criteria	models/Area.php	/^		$criteria=new CDbCriteria;$/;"	v
+criteria	models/Ask.php	/^		$criteria=new CDbCriteria;$/;"	v
+criteria	models/Charge.php	/^		$criteria=new CDbCriteria;$/;"	v
+criteria	models/News.php	/^		$criteria=new CDbCriteria;$/;"	v
+criteria	models/Orders.php	/^		$criteria=new CDbCriteria;$/;"	v
+criteria	models/TicketType.php	/^		$criteria=new CDbCriteria;$/;"	v
+criteria	models/User.php	/^		$criteria=new CDbCriteria;$/;"	v
+dataProvider	controllers/AreaController.php	/^		$dataProvider=new CActiveDataProvider('Area');$/;"	v
+dataProvider	controllers/AskController.php	/^		$dataProvider=new CActiveDataProvider('Ask');$/;"	v
+dataProvider	controllers/ChargeController.php	/^		$dataProvider=new CActiveDataProvider('Charge');$/;"	v
+dataProvider	controllers/NewsController.php	/^		$dataProvider=new CActiveDataProvider('News');$/;"	v
+dataProvider	controllers/OrdersController.php	/^		$dataProvider=new CActiveDataProvider('Orders');$/;"	v
+dataProvider	controllers/TicketTypeController.php	/^		$dataProvider=new CActiveDataProvider('TicketType');$/;"	v
+dataProvider	controllers/UserController.php	/^		$dataProvider=new CActiveDataProvider('User');$/;"	v
+duration	models/LoginForm.php	/^			$duration=$this->rememberMe ? 3600*24*30 : 0; \/\/ 30 days$/;"	v
+email	models/ContactForm.php	/^	public $email;$/;"	v
+filters	controllers/AreaController.php	/^	public function filters()$/;"	f
+filters	controllers/AskController.php	/^	public function filters()$/;"	f
+filters	controllers/ChargeController.php	/^	public function filters()$/;"	f
+filters	controllers/NewsController.php	/^	public function filters()$/;"	f
+filters	controllers/OrdersController.php	/^	public function filters()$/;"	f
+filters	controllers/TicketTypeController.php	/^	public function filters()$/;"	f
+filters	controllers/UserController.php	/^	public function filters()$/;"	f
+headers	controllers/SiteController.php	/^				$headers="From: $name <{$model->email}>\\r\\n".$/;"	v
+layout	components/Controller.php	/^	public $layout='\/\/layouts\/column1';$/;"	v
+layout	controllers/AreaController.php	/^	public $layout='\/\/layouts\/column2';$/;"	v
+layout	controllers/AskController.php	/^	public $layout='\/\/layouts\/column2';$/;"	v
+layout	controllers/ChargeController.php	/^	public $layout='\/\/layouts\/column2';$/;"	v
+layout	controllers/NewsController.php	/^	public $layout='\/\/layouts\/column2';$/;"	v
+layout	controllers/OrdersController.php	/^	public $layout='\/\/layouts\/column2';$/;"	v
+layout	controllers/TicketTypeController.php	/^	public $layout='\/\/layouts\/column2';$/;"	v
+layout	controllers/UserController.php	/^	public $layout='\/\/layouts\/column2';$/;"	v
+loadModel	controllers/AreaController.php	/^	public function loadModel($id)$/;"	f
+loadModel	controllers/AskController.php	/^	public function loadModel($id)$/;"	f
+loadModel	controllers/ChargeController.php	/^	public function loadModel($id)$/;"	f
+loadModel	controllers/NewsController.php	/^	public function loadModel($id)$/;"	f
+loadModel	controllers/OrdersController.php	/^	public function loadModel($id)$/;"	f
+loadModel	controllers/TicketTypeController.php	/^	public function loadModel($id)$/;"	f
+loadModel	controllers/UserController.php	/^	public function loadModel($id)$/;"	f
+login	models/LoginForm.php	/^	public function login()$/;"	f
+menu	components/Controller.php	/^	public $menu=array();$/;"	v
+menu	views/area/admin.php	/^$this->menu=array($/;"	v
+menu	views/area/create.php	/^$this->menu=array($/;"	v
+menu	views/area/index.php	/^$this->menu=array($/;"	v
+menu	views/area/update.php	/^$this->menu=array($/;"	v
+menu	views/area/view.php	/^$this->menu=array($/;"	v
+menu	views/ask/admin.php	/^$this->menu=array($/;"	v
+menu	views/ask/create.php	/^$this->menu=array($/;"	v
+menu	views/ask/index.php	/^$this->menu=array($/;"	v
+menu	views/ask/update.php	/^$this->menu=array($/;"	v
+menu	views/ask/view.php	/^$this->menu=array($/;"	v
+menu	views/charge/admin.php	/^$this->menu=array($/;"	v
+menu	views/charge/create.php	/^$this->menu=array($/;"	v
+menu	views/charge/index.php	/^$this->menu=array($/;"	v
+menu	views/charge/update.php	/^$this->menu=array($/;"	v
+menu	views/charge/view.php	/^$this->menu=array($/;"	v
+menu	views/news/admin.php	/^$this->menu=array($/;"	v
+menu	views/news/create.php	/^$this->menu=array($/;"	v
+menu	views/news/index.php	/^$this->menu=array($/;"	v
+menu	views/news/update.php	/^$this->menu=array($/;"	v
+menu	views/news/view.php	/^$this->menu=array($/;"	v
+menu	views/orders/admin.php	/^$this->menu=array($/;"	v
+menu	views/orders/create.php	/^$this->menu=array($/;"	v
+menu	views/orders/index.php	/^$this->menu=array($/;"	v
+menu	views/orders/update.php	/^$this->menu=array($/;"	v
+menu	views/orders/view.php	/^$this->menu=array($/;"	v
+menu	views/ticketType/admin.php	/^$this->menu=array($/;"	v
+menu	views/ticketType/create.php	/^$this->menu=array($/;"	v
+menu	views/ticketType/index.php	/^$this->menu=array($/;"	v
+menu	views/ticketType/update.php	/^$this->menu=array($/;"	v
+menu	views/ticketType/view.php	/^$this->menu=array($/;"	v
+menu	views/user/admin.php	/^$this->menu=array($/;"	v
+menu	views/user/create.php	/^$this->menu=array($/;"	v
+menu	views/user/index.php	/^$this->menu=array($/;"	v
+menu	views/user/update.php	/^$this->menu=array($/;"	v
+menu	views/user/view.php	/^$this->menu=array($/;"	v
+model	controllers/AreaController.php	/^		$model=$this->loadModel($id);$/;"	v
+model	controllers/AreaController.php	/^		$model=Area::model()->findByPk($id);$/;"	v
+model	controllers/AreaController.php	/^		$model=new Area('search');$/;"	v
+model	controllers/AreaController.php	/^		$model=new Area;$/;"	v
+model	controllers/AskController.php	/^		$model=$this->loadModel($id);$/;"	v
+model	controllers/AskController.php	/^		$model=Ask::model()->findByPk($id);$/;"	v
+model	controllers/AskController.php	/^		$model=new Ask('search');$/;"	v
+model	controllers/AskController.php	/^		$model=new Ask;$/;"	v
+model	controllers/ChargeController.php	/^		$model=$this->loadModel($id);$/;"	v
+model	controllers/ChargeController.php	/^		$model=Charge::model()->findByPk($id);$/;"	v
+model	controllers/ChargeController.php	/^		$model=new Charge('search');$/;"	v
+model	controllers/ChargeController.php	/^		$model=new Charge;$/;"	v
+model	controllers/NewsController.php	/^		$model=$this->loadModel($id);$/;"	v
+model	controllers/NewsController.php	/^		$model=News::model()->findByPk($id);$/;"	v
+model	controllers/NewsController.php	/^		$model=new News('search');$/;"	v
+model	controllers/NewsController.php	/^		$model=new News;$/;"	v
+model	controllers/OrdersController.php	/^		$model=$this->loadModel($id);$/;"	v
+model	controllers/OrdersController.php	/^		$model=Orders::model()->findByPk($id);$/;"	v
+model	controllers/OrdersController.php	/^		$model=new Orders('search');$/;"	v
+model	controllers/OrdersController.php	/^		$model=new Orders;$/;"	v
+model	controllers/SiteController.php	/^		$model=new ContactForm;$/;"	v
+model	controllers/SiteController.php	/^		$model=new LoginForm;$/;"	v
+model	controllers/TicketTypeController.php	/^		$model=$this->loadModel($id);$/;"	v
+model	controllers/TicketTypeController.php	/^		$model=TicketType::model()->findByPk($id);$/;"	v
+model	controllers/TicketTypeController.php	/^		$model=new TicketType('search');$/;"	v
+model	controllers/TicketTypeController.php	/^		$model=new TicketType;$/;"	v
+model	controllers/UserController.php	/^		$model=$this->loadModel($id);$/;"	v
+model	controllers/UserController.php	/^		$model=User::model()->findByPk($id);$/;"	v
+model	controllers/UserController.php	/^		$model=new User('search');$/;"	v
+model	controllers/UserController.php	/^		$model=new User;$/;"	v
+model	models/Area.php	/^	public static function model($className=__CLASS__)$/;"	f
+model	models/Ask.php	/^	public static function model($className=__CLASS__)$/;"	f
+model	models/Charge.php	/^	public static function model($className=__CLASS__)$/;"	f
+model	models/News.php	/^	public static function model($className=__CLASS__)$/;"	f
+model	models/Orders.php	/^	public static function model($className=__CLASS__)$/;"	f
+model	models/TicketType.php	/^	public static function model($className=__CLASS__)$/;"	f
+model	models/User.php	/^	public static function model($className=__CLASS__)$/;"	f
+name	controllers/SiteController.php	/^				$name='=?UTF-8?B?'.base64_encode($model->name).'?=';$/;"	v
+name	models/ContactForm.php	/^	public $name;$/;"	v
+pageTitle	views/site/contact.php	/^$this->pageTitle=Yii::app()->name . ' - Contact Us';$/;"	v
+pageTitle	views/site/error.php	/^$this->pageTitle=Yii::app()->name . ' - Error';$/;"	v
+pageTitle	views/site/index.php	/^$this->pageTitle=Yii::app()->name;$/;"	v
+pageTitle	views/site/login.php	/^$this->pageTitle=Yii::app()->name . ' - Login';$/;"	v
+pageTitle	views/site/pages/about.php	/^$this->pageTitle=Yii::app()->name . ' - About';$/;"	v
+password	models/LoginForm.php	/^	public $password;$/;"	v
+performAjaxValidation	controllers/AreaController.php	/^	protected function performAjaxValidation($model)$/;"	f
+performAjaxValidation	controllers/AskController.php	/^	protected function performAjaxValidation($model)$/;"	f
+performAjaxValidation	controllers/ChargeController.php	/^	protected function performAjaxValidation($model)$/;"	f
+performAjaxValidation	controllers/NewsController.php	/^	protected function performAjaxValidation($model)$/;"	f
+performAjaxValidation	controllers/OrdersController.php	/^	protected function performAjaxValidation($model)$/;"	f
+performAjaxValidation	controllers/TicketTypeController.php	/^	protected function performAjaxValidation($model)$/;"	f
+performAjaxValidation	controllers/UserController.php	/^	protected function performAjaxValidation($model)$/;"	f
+relations	models/Area.php	/^	public function relations()$/;"	f
+relations	models/Ask.php	/^	public function relations()$/;"	f
+relations	models/Charge.php	/^	public function relations()$/;"	f
+relations	models/News.php	/^	public function relations()$/;"	f
+relations	models/Orders.php	/^	public function relations()$/;"	f
+relations	models/TicketType.php	/^	public function relations()$/;"	f
+relations	models/User.php	/^	public function relations()$/;"	f
+rememberMe	models/LoginForm.php	/^	public $rememberMe;$/;"	v
+rules	models/Area.php	/^	public function rules()$/;"	f
+rules	models/Ask.php	/^	public function rules()$/;"	f
+rules	models/Charge.php	/^	public function rules()$/;"	f
+rules	models/ContactForm.php	/^	public function rules()$/;"	f
+rules	models/LoginForm.php	/^	public function rules()$/;"	f
+rules	models/News.php	/^	public function rules()$/;"	f
+rules	models/Orders.php	/^	public function rules()$/;"	f
+rules	models/TicketType.php	/^	public function rules()$/;"	f
+rules	models/User.php	/^	public function rules()$/;"	f
+search	models/Area.php	/^	public function search()$/;"	f
+search	models/Ask.php	/^	public function search()$/;"	f
+search	models/Charge.php	/^	public function search()$/;"	f
+search	models/News.php	/^	public function search()$/;"	f
+search	models/Orders.php	/^	public function search()$/;"	f
+search	models/TicketType.php	/^	public function search()$/;"	f
+search	models/User.php	/^	public function search()$/;"	f
+setUp	tests/WebTestCase.php	/^	protected function setUp()$/;"	f
+subject	controllers/SiteController.php	/^				$subject='=?UTF-8?B?'.base64_encode($model->subject).'?=';$/;"	v
+subject	models/ContactForm.php	/^	public $subject;$/;"	v
+tableName	models/Area.php	/^	public function tableName()$/;"	f
+tableName	models/Ask.php	/^	public function tableName()$/;"	f
+tableName	models/Charge.php	/^	public function tableName()$/;"	f
+tableName	models/News.php	/^	public function tableName()$/;"	f
+tableName	models/Orders.php	/^	public function tableName()$/;"	f
+tableName	models/TicketType.php	/^	public function tableName()$/;"	f
+tableName	models/User.php	/^	public function tableName()$/;"	f
+tbl_user	data/schema.mysql.sql	/^CREATE TABLE tbl_user ($/;"	t
+tbl_user	data/schema.sqlite.sql	/^CREATE TABLE tbl_user ($/;"	t
+tbl_user.email	data/schema.mysql.sql	/^    email VARCHAR(128) NOT NULL$/;"	F
+tbl_user.email	data/schema.sqlite.sql	/^    email VARCHAR(128) NOT NULL$/;"	F
+tbl_user.id	data/schema.mysql.sql	/^    id INTEGER NOT NULL PRIMARY KEY AUTO_INCREMENT,$/;"	F
+tbl_user.id	data/schema.sqlite.sql	/^    id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,$/;"	F
+tbl_user.password	data/schema.mysql.sql	/^    password VARCHAR(128) NOT NULL,$/;"	F
+tbl_user.password	data/schema.sqlite.sql	/^    password VARCHAR(128) NOT NULL,$/;"	F
+tbl_user.username	data/schema.mysql.sql	/^    username VARCHAR(128) NOT NULL,$/;"	F
+tbl_user.username	data/schema.sqlite.sql	/^    username VARCHAR(128) NOT NULL,$/;"	F
+testContact	tests/functional/SiteTest.php	/^	public function testContact()$/;"	f
+testIndex	tests/functional/SiteTest.php	/^	public function testIndex()$/;"	f
+testLoginLogout	tests/functional/SiteTest.php	/^	public function testLoginLogout()$/;"	f
+user	components/UserIdentity.php	/^        $user = User::model()->find('LOWER(username) = ?', array(username));$/;"	v
+username	components/UserIdentity.php	/^        $username = shrtolower($this->username);$/;"	v
+username	models/LoginForm.php	/^	public $username;$/;"	v
+verifyCode	models/ContactForm.php	/^	public $verifyCode;$/;"	v
+yiic	yiic.php	/^$yiic=dirname(__FILE__).'\/..\/framework\/yiic.php';$/;"	v
+yiit	tests/bootstrap.php	/^$yiit=dirname(__FILE__).'\/..\/..\/framework\/yiit.php';$/;"	v

@@ -1,0 +1,55 @@
+body {
+	background-color: #EFEFEF;
+}
+
+#loginform {
+	border: 1px solid black;
+	width: 600px;
+	height: 350px;
+	margin: 100px auto auto auto;
+	background-color: #336699;
+	padding: 40px;
+}
+
+#loginform h1 {
+	text-align: center;
+}
+
+#username {
+	padding-bottom: 10px;
+	margin-left: 120px;
+}
+
+#password {
+	padding-bottom: 10px;
+	margin-left: 120px;
+}
+
+#captcha {
+	padding-bottom: 10px;
+	margin-left: 120px;
+}
+
+#image {
+	margin-left: 200px;
+}
+
+label {
+	display:inline-block;
+    width:70px;
+    padding-right:5px;
+    text-align:left;
+}
+
+#loginbtn input {
+	color: #336699;
+	margin-left: 360px;
+	margin-top: 40px;
+	width: 85px;
+	height: 31px;
+}
+
+.errorMessage {
+	color: red;
+	padding: 5px 80px 0;
+}

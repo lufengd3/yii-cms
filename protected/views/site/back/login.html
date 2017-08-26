@@ -1,0 +1,21 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>后台登录</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body onLoad="init('/')">
+<div class="loginbg">
+  <div id="login_box" class="logintxt">
+  	<div class="loginleft">
+    <form id="loginForm" name="loginForm" method="post">
+      用户名：<input name="username" type="text" size="20" value="" maxlength="20">
+	  密　码：<input name="password" type="password" size="20" value="" maxlength="32">
+	  验证码：<input name="authNum" type="text" size="10" maxlength="4" style="width:60px;">
+      <img src="/authimg/show?r=1394378924" align="absmiddle" id="authCode" title="看不清楚,点击换一张" onClick="getAuthCode()">
+      <input type="image" src="loginbottom.jpg" style="height:30px; width:100px; border:0px;" align="absmiddle" />
+    </form>
+    </ul>
+  </div>
+</div></div>
+</body>
